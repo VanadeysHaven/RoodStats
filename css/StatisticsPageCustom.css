@@ -1,0 +1,10 @@
+.statisticsjt {
+    background: url('../assets/statisticsJumbotron.png') no-repeat center center;
+    color: #ffffff;
+    position: relative;
+    width: 1920px;
+    height: 310px;
+    /*left: -40px;*/
+    top: 40px;
+    z-index: -1;
+}

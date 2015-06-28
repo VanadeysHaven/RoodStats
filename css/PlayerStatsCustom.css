@@ -1,0 +1,10 @@
+.playerstatsjt {
+    background: url('../assets/playerStatsJumbotron.png') no-repeat center center;
+    color: #ffffff;
+    position: relative;
+    width: 1920px;
+    height: 310px;
+    /*left: -40px;*/
+    top: 31px;
+    z-index: -1;
+}
